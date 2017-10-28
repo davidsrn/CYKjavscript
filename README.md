@@ -1,2 +1,2 @@
 # CYKjavscript
-The cyk algorithm implemented un javascript
+The cyk algorithm implemented in javascript
