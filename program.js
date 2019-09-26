@@ -1,5 +1,7 @@
 // Por David Ramirez
 // davidsrnfire@gmail.com
+// Y Mariana Perez
+// https://github.com/pirty6
 var gramatica={};
 var key;
 var separa = function(gram){
